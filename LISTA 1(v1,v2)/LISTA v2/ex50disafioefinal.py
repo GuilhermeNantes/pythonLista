@@ -1,0 +1,6 @@
+x1 = int(input("digite um numeiro"))
+x2 = int(input("digite um numeiro"))
+y1 = int(input("digite um numeiro"))
+y2 = int(input("digite um numeiro"))
+c =((((x1 - x2)**2)+((y1 - y2)**2))**0.5)
+print(c)
